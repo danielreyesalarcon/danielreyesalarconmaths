@@ -113,3 +113,11 @@ index 8ebb991..643e24f 100644
 -merged in.
 +merged in. Split changes into comprehensive chuncks if I have lots of code on me
 +longer than dozen lines.  
+$ git diff --staged
+diff --git a/README b/README
+new file mode 100644
+index 0000000..03902a1
+--- /dev/null
++++ b/README
+@@ -0,0 +1 @@
++My Project  
