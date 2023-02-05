@@ -55,3 +55,12 @@ Changes not staged to commit:
   (use "git checkout -- <file>..." to discard changes in working directory)
   
   modified:  CONTRIBUTING.md
+$ git add CONTRIBUTING.md
+$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+  
+  new file:  README
+  modified:  CONTRIBUTING.md 
