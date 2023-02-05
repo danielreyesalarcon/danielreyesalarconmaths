@@ -183,3 +183,12 @@ Changes to be committed:
    renamed:  README.md -> YoomAN
   
 $ git clone https://github.com/schacon/simplegit-progit  
+$ git clone https://github.com/schacon/ticgit
+Cloning into 'ticgit'...
+remote: Resusing existing pack: 1857, done.
+Receiving objects: 100% (1857/1857), 374.35 JiB | 268.00 KiB/s, done.
+Resolving deltas: 100% (772/772), done.
+Checking connectivity... done.
+$ cd ticgit
+$ git remote
+origin  
