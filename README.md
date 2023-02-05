@@ -138,3 +138,13 @@ Changes not staged for commit:
   
   modified:  CONTRIBUTING.md
   
+$ git diff
+diff --git a?CONTRIBUTING.md b?CONTRIBUTING.md
+index 643e24f..87f08c8 100644
+--- a/CONTRIBUTING.md
++++ b/CONTRIBUTING.md  
+@@ -119,3 +199,4, @@ at the
+# Stater Projects
+  
+ See our [projects list] (https://github.com/libgit2/libgit2/blob/development/PROJECTS.md).
++# test line  
