@@ -121,3 +121,20 @@ index 0000000..03902a1
 +++ b/README
 @@ -0,0 +1 @@
 +My Project  
+
+$ git add CONTRIBUTING.md
+$ echo '#test line' >> CONTRIBUTING.md
+$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes to be committed:
+  (use reset HEAD <file>..." to unstage)
+  
+  modified:  CONTRIBUTING.md
+  
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+  
+  modified:  CONTRIBUTING.md
+  
