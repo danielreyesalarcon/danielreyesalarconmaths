@@ -103,3 +103,13 @@ Changes not staged for commit:
   (use "git checkout -- <file>..." to discard changes in working directory)
   
   modified:  CONTRIBUTING.md
+$ git diff
+diff --git a/CONTRIBUTING.md b/CONTRIBUTING.md
+index 8ebb991..643e24f 100644
+--- a/CONTRIBUTING.md
++++ b/CONTRIBUTING.md
+@@ -65,7 +65,8 @@ branch directly, things can get messy.
+ I am learning to make changes on this system
+-merged in.
++merged in. Split changes into comprehensive chuncks if I have lots of code on me
++longer than dozen lines.  
