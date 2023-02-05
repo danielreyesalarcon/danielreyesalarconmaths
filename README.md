@@ -173,3 +173,11 @@ Changes to be committed:
   (use "git reset HEAD <file>..." to unstage)
   
   deleted:  PROJECTS.md
+$ git mv README.md README
+$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+  
+   renamed:  README.md -> YoomAN
