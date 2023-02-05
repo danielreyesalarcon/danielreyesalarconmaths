@@ -71,3 +71,6 @@ MM Rakefile
 A lib/git.rb
 M lib/simplegit.rb
 ?? LICENSE.txt  
+$ cat .gitignore
+*.[oa]
+*~
