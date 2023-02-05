@@ -17,4 +17,4 @@ Untracked files:
     README
   
  nothing added to commit but untracked files present (use "git add" to track)
-  
+$ git add README  
