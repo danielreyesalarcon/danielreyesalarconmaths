@@ -181,3 +181,5 @@ Changes to be committed:
   (use "git reset HEAD <file>..." to unstage)
   
    renamed:  README.md -> YoomAN
+  
+$ git clone https://github.com/schacon/simplegit-progit  
