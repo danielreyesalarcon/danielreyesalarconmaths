@@ -40,3 +40,18 @@ Changes to be committed:
   
   new file:  README
   modified:  CONTRIBUTING.md
+$ vim CONTRIBUTING.md
+$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+  
+  new file: README
+  modified: CONTRIBUTING.md
+  
+Changes not staged to commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+  
+  modified:  CONTRIBUTING.md
