@@ -148,3 +148,8 @@ index 643e24f..87f08c8 100644
   
  See our [projects list] (https://github.com/libgit2/libgit2/blob/development/PROJECTS.md).
 +# test line  
+
+$ git commit -m "Story 182: fix benchmarks for speed"
+[master 463dc4f] Story 182: fix benchmarks for speed
+ 2 files changed, 2 insertions(+)
+ create mode 100644 README 
