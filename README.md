@@ -64,3 +64,10 @@ Changes to be committed:
   
   new file:  README
   modified:  CONTRIBUTING.md 
+  
+$ git status -s
+  M README
+MM Rakefile
+A lib/git.rb
+M lib/simplegit.rb
+?? LICENSE.txt  
