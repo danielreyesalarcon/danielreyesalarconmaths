@@ -18,3 +18,10 @@ Untracked files:
   
  nothing added to commit but untracked files present (use "git add" to track)
 $ git add README  
+$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+  
+  new file:  README
