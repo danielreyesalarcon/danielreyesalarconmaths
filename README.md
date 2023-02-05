@@ -164,3 +164,12 @@ Changes not staged for commit:
     deleted:  PROJECTS.md
   
 no changes added to commit (use "git add" and/or "git commit -a"  
+$ git rm PROJECTS.md
+rm 'PROJECTS.md'
+$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+  
+  deleted:  PROJECTS.md
