@@ -153,3 +153,14 @@ $ git commit -m "Story 182: fix benchmarks for speed"
 [master 463dc4f] Story 182: fix benchmarks for speed
  2 files changed, 2 insertions(+)
  create mode 100644 README 
+$ rm PROJECTS.md
+$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+  
+    deleted:  PROJECTS.md
+  
+no changes added to commit (use "git add" and/or "git commit -a"  
