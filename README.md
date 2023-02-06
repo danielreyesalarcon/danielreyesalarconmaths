@@ -192,3 +192,4 @@ Checking connectivity... done.
 $ cd ticgit
 $ git remote
 origin  
+$ git branch testing
