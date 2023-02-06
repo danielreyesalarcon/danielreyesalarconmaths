@@ -198,3 +198,5 @@ f30ab (HEAD -> master, testing) Add feature #32 - ability to add new formats to 
 32ac2 Fix bug #1328 - stack overflow under certain conditions
 98ca9 Initial commit
 $ git checkout testing
+$ vim test.rb
+$ git commit -a -m 'made a change'
