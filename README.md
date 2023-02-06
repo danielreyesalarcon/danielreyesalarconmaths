@@ -200,3 +200,5 @@ f30ab (HEAD -> master, testing) Add feature #32 - ability to add new formats to 
 $ git checkout testing
 $ vim test.rb
 $ git commit -a -m 'made a change'
+$ git checkout master
+ 
